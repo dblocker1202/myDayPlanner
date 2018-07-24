@@ -1,0 +1,20 @@
+﻿[
+  {
+    "outputFileName": "Content/siteBootstrap.min.css",
+    "inputFiles": [
+      "Content/boostrap.css"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/sitejquery.min.js",
+    "inputFiles": [
+      "Scripts/jquery-3.3.1.js",
+      "Scripts/jquery-ui-1.12.1.js"
+    ],
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    },
+    "sourceMap": false
+  }
+]

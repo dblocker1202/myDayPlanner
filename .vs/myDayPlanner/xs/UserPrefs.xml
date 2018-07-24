@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{DBE9ABFE-87C8-4CAB-B027-99492F78ACCC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="myDayPlanner/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="myDayPlanner/Controllers/HomeController.cs" Line="24" Column="1" />
+      <File FileName="myDayPlanner/Views/Home/Index.cshtml" Line="2" Column="21" />
+      <File FileName="myDayPlanner/Content/myDayPlanner.css" Line="1" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.myDayPlanner PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
